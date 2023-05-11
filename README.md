@@ -1,6 +1,4 @@
-# from-work-stuff
-
-
+# Boring stuff
 
 ## Getting started
 
